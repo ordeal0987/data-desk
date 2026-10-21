@@ -1,0 +1,8 @@
+﻿Name,Email,Signup Date,Phone,City,Tier
+  Alice Chen ,alice@example.com,2024-3-5,138-0013-8000,BeiJing ,VIP
+bob liu,BOB@example.com,2024/03/06,13800138001,shanghai,normal
+Alice Chen,alice@example.com,2024-03-05,13800138000,Beijing,VIP
+CAROL wang,,07/03/2024,+86 138 0013 8002,GUANGZHOU,
+david zhao,david@example.com,2024-13-01,13800138003,shenzhen,Normal
+Eve Zhang,eve@example.com,2024-03-07,,HangZhou,normal 
+bob liu ,bob@example.com,2024-03-06,13800138001,Shanghai,normal
